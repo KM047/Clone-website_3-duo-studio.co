@@ -1,1 +1,1 @@
-TThis website is clone of duo-studio.co
+This website is clone of duo-studio.co
